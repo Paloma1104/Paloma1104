@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Paloma1104
-- 👀 I’m interested in Web3 and Web Development
+- 👋 Hey there, I’m Paloma
 - 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert who loves to read and write poetry
