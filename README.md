@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m Paloma
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning react and solidity
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert who loves to read and write poetry
 
